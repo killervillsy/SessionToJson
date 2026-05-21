@@ -2,6 +2,7 @@
 // @name         SessionToJson
 // @namespace    local.session-to-json
 // @version      1.0.0
+// @license      MIT
 // @description  Read ChatGPT session JSON and convert it to CPA/Codex auth JSON.
 // @match        *://*/*
 // @match        file:///*
